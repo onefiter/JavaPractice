@@ -38,7 +38,7 @@ public class SwaggerConfig
 
     public ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("尚硅谷redis6大厂班课程"+"\t"+new SimpleDateFormat("yyyy-MM-dd").format(new Date()))
+                .title("redis6大厂班课程"+"\t"+new SimpleDateFormat("yyyy-MM-dd").format(new Date()))
                 .description("阳哥大厂redis")
                 .version("1.0")
                 .termsOfServiceUrl("https://www.itdachang.com/")
