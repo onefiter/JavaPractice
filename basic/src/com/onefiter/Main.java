@@ -1,5 +1,6 @@
 package com.onefiter;
 
+<<<<<<< HEAD
 import com.onefiter.innerClas;
 
 /**
@@ -49,4 +50,12 @@ public class Main {
     }
 
 
+=======
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        Arrays.toString()
+    }
+>>>>>>> 3ddf370033f98d2f80e91731e7b7f5494d94c0ed
 }
